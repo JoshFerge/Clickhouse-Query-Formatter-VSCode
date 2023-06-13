@@ -6,6 +6,8 @@
   "engines": {
     "vscode": "^1.78.0"
   },
+  "icon": "images/logo.png",
+  "publisher": "JoshFerge",
   "repository": {
     "type": "git",
     "url": "https://github.com/JoshFerge/Clickhouse-Query-Formatter-VSCode.git"
